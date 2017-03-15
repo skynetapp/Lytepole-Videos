@@ -1,3 +1,7 @@
+#### Date: 15/03/2017
+
+#### Description: This document explains the code flow of creating video.
+
 #### Step 1:
 
 Function **createVideoFlow** will be called first from index.php to controller which is used to create video, and uploads to sugar folder using curl.
