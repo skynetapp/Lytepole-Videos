@@ -38,7 +38,7 @@ Function **controlVideoListFlow** will be called first from index.php to control
 #### Step 5:
 
 - Function **showVideoList** takes the input data object and gives to the video list .
-- In action, function **showVideoList** will be called from VideoView.php which displays the tpl page.
+- In action, function **showVideoListView** will be called from VideoView.php which displays the tpl page.
 - The video list tpl page will be **VideoListForm.tpl** in views folder.
 
 #### Step 6:
